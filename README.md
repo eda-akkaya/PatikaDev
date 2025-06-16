@@ -1,2 +1,2 @@
 # PatikaDev
-PatikaDev end of course projects
+PatikaDev course projects
