@@ -1,0 +1,34 @@
+### **Görmeden Anlayamazsın: Veri Görselleştirmenin Gücü**
+
+Veri bilimi deyince çoğu insanın aklına karmaşık istatistiksel formüller ve tahmin modelleri ve satırlar dolusu kod gelir.  
+Fakat bazen elimizdeki en güçlü araç, ne bir algoritma ne de gelişmiş bir modeldir.  
+Bazen ihtiyacımız olan tek şey basit bir grafiktir.
+
+---
+
+#### Bir Grafik Bin Satır Veriye Bedel
+
+Elinizde milyonlarca satırdan oluşan bir satış verisi olduğunu hayal edin.  
+Hangi şehirde hangi ürün daha çok satılmış? Hangi ayda düşüş olmuş?  
+İlk bakışta bu soruların cevaplarını tabloya bakarak görmek neredeyse imkânsız.
+
+Ama aynı verileri bir ısı haritasında renklere döktüğünüzde ya da zaman serisi grafiklerinde akışını gösterdiğinizde veri kendini anlatmaya başlar.
+
+İnsan beyni sayılardan çok şekilleri ve renkleri anlamada daha iyidir.  
+Bu nedenle veriyi görselleştirmek, sadece estetik değil, anlama açılan bir kapıdır.
+
+
+#### Sezgisel Düşünme = İyi Görselleştirme
+
+Veri görselleştirme yalnızca “grafik çizmek” değildir.  
+Asıl mesele hangi veriyi nasıl sunacağını bilmektir.
+Bu noktada ezberden uzak durmak önemlidir. Çünkü her grafik, farklı bir hikaye anlatır:
+
+- Çubuk grafik, karşılaştırma için iyidir.  
+- Çizgi grafik, zaman içindeki değişimleri gösterir.  
+- Dağılım grafiği, iki değişken arasındaki ilişkiyi görselleştirir.  
+- Boxplot, bir değişkenin dağılımını ve aykırı değerlerini göz önüne serer.
+
+Ama bu kurallar birer kılavuzdur, kanun değil.  
+Önemli olan şu sorudur: Bu verinin neyi anlatmasını istiyorum?
+
